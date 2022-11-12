@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://img.shields.io/npm/dt/ss-backpacktf-api?style=for-the-badge">
   <img src="https://img.shields.io/github/contributors/steamsecurity/ss-backpacktf-api?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/open-raw/steamsecurity/ss-backpacktf-api?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/steamsecurity/ss-backpacktf-api?style=for-the-badge">
   <img src="https://img.shields.io/github/languages/code-size/steamsecurity/ss-backpacktf-api?style=for-the-badge">
 </div>
 <br>
