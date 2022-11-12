@@ -1,6 +1,6 @@
 {
   "name": "ss-backpacktf-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple API wrapper for Backpack.TF used and maintained by SteamSecurity.org",
   "main": "index.js",
   "scripts": {

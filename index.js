@@ -28,7 +28,6 @@ class BackpackTFAPI {
 			const response = await this._get(`https://backpack.tf/api/IGetUsers/v3?steamid=${steamid64}`);
 			if (response.error) return resolve(response);
 			const profile = response.data.response.players[steamid64];
-			console.log(profile);
 
 			if (profile.backpack_tf_trust) {
 				return_value.positive = profile.backpack_tf_trust?.for || 0;
