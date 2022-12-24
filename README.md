@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/github/contributors/steamsecurity/ss-backpacktf-api?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/steamsecurity/ss-backpacktf-api?style=for-the-badge">
   <img src="https://img.shields.io/github/languages/code-size/steamsecurity/ss-backpacktf-api?style=for-the-badge">
+  <img src="https://img.shields.io/github/actions/workflow/status/steamsecurity/ss-backpacktf-api/npm-publish.yml?style=for-the-badge">
 </div>
 <br>
 
